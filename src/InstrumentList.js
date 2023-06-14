@@ -26,7 +26,7 @@ const InstrumentList = () => {
   return (
     <>
 <br />
-<h3 id="search-header">Search for your dream instrument:</h3>
+<h4 id="search-header">Search for your dream instrument:</h4>
       <input className="search__input" type="text" placeholder="Search" onChange={search}/>
       <br />
       <br />

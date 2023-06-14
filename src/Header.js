@@ -10,6 +10,7 @@ const Header = () => {
   const mystyle = {
     color: "#8f0808",
     textAlign: "center",
+    fontStyle: 'oblique',
   };
 
   return (

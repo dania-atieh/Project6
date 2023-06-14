@@ -16,7 +16,6 @@ const Instrument = () => {
     <>
     <Container id="grid-instrument">
       <br />
-      <br />
       <Row id="row-one-instrument">
         <Col>
           <img id="img" src={product.image} alt={product.name} height={700}/>
