@@ -9,7 +9,7 @@ import "./index.css";
 const Header = () => {
   const mystyle = {
     color: "#8f0808",
-    textAlign: "center"
+    textAlign: "center",
   };
 
   return (

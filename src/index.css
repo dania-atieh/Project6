@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,700,900");
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 
 :root {
   --main-color: #8f0808;
@@ -8,9 +9,9 @@
 }
 
 body {
-  /* background-image: url(/bg.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: 'Lora', serif;
 }
 
 /* start footer */
@@ -43,6 +44,10 @@ footer > section > div > div > div > i {
 /* end footer */
 
 /* Strat of instrumentList.js page */
+#search-header{
+  text-align: center;
+}
+
 #card {
   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
@@ -149,6 +154,7 @@ footer > section > div > div > div > i {
 margin-left: 10%;
   }
 }
+/* end of mobile */
 /* End of instrumentList.js page */
 
 /* start of instrument.js page */

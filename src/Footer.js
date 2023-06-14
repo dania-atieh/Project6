@@ -1,5 +1,4 @@
-import React from 'react'
-// import {Button} from "react-bootstrap"
+import React from 'react';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -79,6 +78,7 @@ const Footer = () => {
     <div className="text-center p-4">Copyright &copy; HarmonyHouse 2023</div>
     {/* <!-- Copyright --> */}
   </footer>
+
   )
 }
 
